@@ -1,13 +1,3 @@
-<!-- Thêm CSS cho background -->
-<style>
-  body {
-    background-image: url('https://raw.githubusercontent.com/nn-pyro/your-repo/main/images/background.jpg'); /* Thay đổi đường dẫn đến ảnh nền */
-    background-size: cover;
-    background-position: center;
-    color: white; /* Đổi màu chữ nếu cần */
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Nguyễn Hoàng Nghiệp</h1>
 <h3 align="center">A passionate AI enthusiast and Data Analyst from Vietnam</h3>
 
